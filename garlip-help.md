@@ -69,13 +69,14 @@ Garlip does not replace traditional copyright systems, but it strengthens your a
 
 # ✅ Practical Steps Checklist
 
-## 📝 Step 1: Secure Local Protection
-- Register your work with your national copyright office if possible (e.g., U.S. Copyright Office).
-- For branding elements, apply for trademark protection where you plan to operate.
-
-## 🔒 Step 2: Strengthen Proof with Garlip
-- Upload your work to Garlip to create a **blockchain-based certificate**.
+## 🔒 Step 1: Strengthen Proof with Garlip
+- Upload your work to Garlip to create a **blockchain-based certificate** and watermarked version.
 - Store the QR code or reference link in your records.
+
+## 📝 Step 2: Secure Local Protection
+- Register your work with your local copyright office if possible (e.g., U.S. Copyright Office).
+- Filing fees maybe applicable.
+- For branding elements, apply for trademark protection where you plan to operate.
 
 ## 📑 Step 3: Maintain Contracts and Rights
 - Keep copies of publishing agreements, licenses, and contracts.
