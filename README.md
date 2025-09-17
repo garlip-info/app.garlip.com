@@ -7,7 +7,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
-## [0.2.0] - 2025-09-15 - Garlip Network
+## [0.1.9.2] - 2025-09-17 - Scaleability
+### Added
+-   Optionality for 4 server scaleability
+-   Private DB VPN
+-   Multiple blockchain operations
+  
+## [0.1.9.1] - 2025-09-15 - Garlip Network
 ### Added
 -   Integrated into the garlip.network private blockchain.
 
