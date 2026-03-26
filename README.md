@@ -7,17 +7,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 --
-## [0.1.9.3] - 2025-09-18 - Security
+## [0.1.9.3] - 2026-02-18 - Security
 ### Fixed
 -   Created deny-default following Zap scan
 
-## [0.1.9.2] - 2025-09-17 - Scaleability
+## [0.1.9.2] - 2026-02-17 - Scaleability
 ### Added
 -   Optionality for 4 server scaleability
 -   Private DB VPN
 -   Multiple blockchain operations
   
-## [0.1.9.1] - 2025-09-15 - Garlip Network
+## [0.1.9.1] - 2026-02-15 - Garlip Network
 ### Added
 -   Integrated into the garlip.network private blockchain.
 
@@ -26,14 +26,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   Forked GitHub account.
 -   Social Media accounts - YoutTube channel; X.Com.
 
-## [0.1.9] - 2025-09-10 - Various fixes
+## [0.1.9] - 2026-02-05 - Various fixes
 
 ### Changed
 -   Branding logo.
 -   Forked GitHub account.
 -   Social Media accounts - YoutTube channel; X.Com.
   
-## [0.1.8] - 2025-08-13 - Various fixes
+## [0.1.8] - 2026-02-04 - Various fixes
 
 ### Fixed
 -   Microsoft SSO redirect loop on failure.
@@ -41,7 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   Removed progress status after 3 seconds or if modal opens.
 -   A number of instances where local time was being ingested instead of UTC at database level.
 
-## [0.1.7] - 2025-07-24 - Various fixes
+## [0.1.7] - 2026-02-04 - Various fixes
 
 This release enhances the documentation and removes the crypto.js dependancy.
 
@@ -55,14 +55,14 @@ This release enhances the documentation and removes the crypto.js dependancy.
 ### Changed
 -   Removed crypto.js for speed and dependancy removal.
 
-## [0.1.6] - 2025-07-23 - Tokenization
+## [0.1.6] - 2026-02-04 - Tokenization
 
 This release adds the functionality to allocate and issue snard tokens to new and existing users.
 
 ### Added
 -   **Tokens:** Tokens added to the account on subscription based on tranching.
   
-## [0.1.5] - 2025-07-21 - Certificates & Proving
+## [0.1.5] - 2026-02-03 - Certificates & Proving
 
 This release allows users to configure the certificates and reprove copyrights.
 
@@ -78,14 +78,14 @@ This release allows users to configure the certificates and reprove copyrights.
 ### Fixed
 -   Enhanced security using key rotation.
 
-## [0.1.4] - 2025-07-19 - API test area
+## [0.1.4] - 2026-02-02 - API test area
 
 This release allows developers to test the API for sending requests and the various responses communicated from the server.
 
 ### Added
 -   **Swagger Like:** API test page. With API key can validate responses for single api calls.
 
-## [0.1.3] - 2025-07-13 - Metered Payments and Accounting
+## [0.1.3] - 2026-02-02 - Metered Payments and Accounting
 ### Added
 -   **Checkout:** Stripe Integration for metered copyrighting with scaleable credit system and audit trail.
 -   **Credit Gating:** API checks a user's balance and rejects requests if they have insufficient credits, providing the correct 402 Payment Required status.
@@ -95,12 +95,12 @@ This release allows developers to test the API for sending requests and the vari
 ### Fixed
 -   Resolved caching of dashboard after subscriptions paid.
 
-## [0.1.2] - 2025-07-12 - Logging
+## [0.1.2] - 2026-02-01 - Logging
 
 ### Added
 -   **Centralised Logging:** Avoided use of Splunk and created own fully automated logging for faster resolution of bugs.
 
-## [0.1.1] - 2025-07-11 - Google Drive & Blockchain Integration
+## [0.1.1] - 2026-02-01 - Google Drive & Blockchain Integration
 
 This release adds the functionality to store creative content on the users own Google Drive folder.
 
@@ -112,7 +112,7 @@ This release adds the functionality to store creative content on the users own G
     -   Bulk batch blockchain writes where it is a bit slow onchain.
     -   Blockchain proof json includes copyright meta and file type.
 
-## [0.1.0] - 2025-07-10 - Initial Release
+## [0.1.0] - 2026-02-01 - Initial Release
 
 This is the initial beta release of the Garlip application, establishing the core infrastructure and features for copyright registration and web scraping.
 
